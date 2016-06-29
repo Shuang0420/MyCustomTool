@@ -28,8 +28,6 @@ $ python saveUrl.py -u http://www.shuang0420.com/2016/06/12/爬虫总结-二-scr
 $ python saveUrl.py -u http://www.shuang0420.com/2016/06/15/爬虫总结-三-scrapinghub/
 </pre>
 
-[效果](https://github.com/Shuang0420/MyCustomTool/blob/master/save_url/weeklyReading.html)
-
 ![](http://7xu83c.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-29%20%E4%B8%8B%E5%8D%883.30.21.png)
 
 之后会继续完善，考虑做浏览器插件
